@@ -91,7 +91,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, #ffffff, #f8d7da), url("./assets/imgFundo.png");
+  background-image: linear-gradient(to bottom, #ffffff, #f8d7da)("./assets/imgSobreNos.png");
   left: 0;
   top: 0;
   width: 100%;
